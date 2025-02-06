@@ -1,0 +1,12 @@
+{
+  "name": "LOR",
+  "symbol": "LOR",
+  "description": "Only Possible On Solana",
+  "image": "https://github.com/tai9/lor-assets/blob/main/IMG_0595.JPG",
+  "attributes": [
+    {
+      "trait_type": "Item",
+      "value": "Developer Portal"
+    }
+  ]
+}
